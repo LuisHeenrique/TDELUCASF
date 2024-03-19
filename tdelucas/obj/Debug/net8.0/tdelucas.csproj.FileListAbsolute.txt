@@ -1,0 +1,14 @@
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\bin\Debug\net8.0\tdelucas.exe
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\bin\Debug\net8.0\tdelucas.deps.json
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\bin\Debug\net8.0\tdelucas.runtimeconfig.json
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\bin\Debug\net8.0\tdelucas.dll
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\bin\Debug\net8.0\tdelucas.pdb
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\obj\Debug\net8.0\tdelucas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\obj\Debug\net8.0\tdelucas.AssemblyInfoInputs.cache
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\obj\Debug\net8.0\tdelucas.AssemblyInfo.cs
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\obj\Debug\net8.0\tdelucas.csproj.CoreCompileInputs.cache
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\obj\Debug\net8.0\tdelucas.dll
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\obj\Debug\net8.0\refint\tdelucas.dll
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\obj\Debug\net8.0\tdelucas.pdb
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\obj\Debug\net8.0\tdelucas.genruntimeconfig.cache
+C:\Users\luish_kiieusq\OneDrive\Área de Trabalho\TDELucas\tdelucas\obj\Debug\net8.0\ref\tdelucas.dll
